@@ -53,3 +53,22 @@ Registre Sirene complet (stock INSEE du 1er novembre 2026, via data.gouv.fr, Lic
 ## Terms
 
 Outputs are derived from the source dataset named above and are provided as-is for business intelligence. Names, statuses, dates and coverage are exactly as published by the source, subject to the scope exclusions in the coverage statement above; check it before relying on any aggregate.
+
+---
+**More public-data intelligence from Proofhouse Ventures**
+- Singapore government contract awards (GeBIZ): https://apify.com/proofhouse-ventures/gebiz-award-intelligence
+- Singapore HDB resale transactions: https://apify.com/proofhouse-ventures/hdb-resale-intelligence
+- UK property price-paid records: https://apify.com/proofhouse-ventures/uk-price-paid-intelligence
+- Singapore new company registrations (ACRA): https://apify.com/proofhouse-ventures/acra-new-companies-delta
+- Singapore contractor intelligence (BCA × GeBIZ): https://apify.com/proofhouse-ventures/bca-contractor-intelligence
+- Global LEI register (GLEIF): https://apify.com/proofhouse-ventures/gleif-lei-register
+
+Building a company-data product? The Global Company Registry API (on RapidAPI and MCPize) combines the Singapore, UK, France and LEI registers in one API.
+
+
+
+
+
+
+
+
